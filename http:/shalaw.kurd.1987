@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rudaw HD" tvg-logo="R" group-title="News",Rudaw HD
+http://iptv.nextnet.krd:25461/12920/4516/87
+#EXTINF:-1 tvg-id="Kurdistan24" tvg-logo="K24" group-title="News",Kurdistan24
+http://iptv.nextnet.krd:25461/12920/4516/127
+#EXTINF:-1 tvg-id="AVA" tvg-logo="News" group-title="News",AVA
+http://iptv.nextnet.krd:25461/12920/4516/117
+#EXTINF:-1 tvg-id="Kurdistan Tv" tvg-logo="Ktv" group-title="News",Kurdistan Tv
+http://iptv.nextnet.krd:25461/12920/4516/170
+#EXTINF:-1 tvg-id="Speda HD" tvg-logo="S" group-title="News",Speda HD
+http://iptv.nextnet.krd:25461/12920/4516/103
+#EXTINF:-1 tvg-id="Payam HD" tvg-logo="P" group-title="News",Payam HD
+http://iptv.nextnet.krd:25461/12920/4516/100
+#EXTINF:-1 tvg-id="Nrt HD" tvg-logo="N" group-title="News",Nrt HD
+http://iptv.nextnet.krd:25461/12920/4516/86
+#EXTINF:-1 tvg-id="Channel 8" tvg-logo="C" group-title="News",Channel 8
+http://iptv.nextnet.krd:25461/12920/4516/4687
+#EXTINF:-1 tvg-id="Gali kurdistan" tvg-logo="G" group-title="News",Gali kurdistan
+http://iptv.nextnet.krd:25461/12920/4516/182
+#EXTINF:-1 tvg-id="Kurd Sat" tvg-logo="Ks" group-title="News",Kurd Sat
+http://iptv.nextnet.krd:25461/12920/4516/84
+#EXTINF:-1 tvg-id="Kurd Sat News" tvg-logo="Ksn" group-title="News",Kurd Sat News
+http://iptv.nextnet.krd:25461/12920/4516/85
+#EXTINF:-1 tvg-id="Kurd Max HD" tvg-logo="Km" group-title="Drama",Kurd Max HD
+http://iptv.nextnet.krd:25461/12920/4516/158
+#EXTINF:-1 tvg-id="Kurdmax Show" tvg-logo="Kms" group-title="Drama",Kurdmax Show
+http://iptv.nextnet.krd:25461/12920/4516/123
+#EXTINF:-1 tvg-id="Ranya HD" tvg-logo="R" group-title="Drama",Ranya HD
+http://iptv.nextnet.krd:25461/12920/4516/163
+#EXTINF:-1 tvg-id="Derwaza HD" tvg-logo="D" group-title="Drama",Derwaza HD
+D
+#EXTINF:-1 tvg-id="Diman HD" tvg-logo="Dm" group-title="Drama",Diman HD
+http://iptv.nextnet.krd:25461/12920/4516/92
+#EXTINF:-1 tvg-id="Newline HD 1" tvg-logo="N" group-title="Drama",Newline HD 1
+http://iptv.nextnet.krd:25461/12920/4516/112
+#EXTINF:-1 tvg-id="Newline HD 2" tvg-logo="N" group-title="Drama",Newline HD 2
+http://iptv.nextnet.krd:25461/12920/4516/113
+#EXTINF:-1 tvg-id="Zed HD 1" tvg-logo="Z" group-title="Drama",Zed HD 1
+http://iptv.nextnet.krd:25461/12920/4516/89
+#EXTINF:-1 tvg-id="Zed HD 2" tvg-logo="Z" group-title="Drama",Zed HD 2
+http://iptv.nextnet.krd:25461/12920/4516/99
+#EXTINF:-1 tvg-id="Slemane" tvg-logo="S" group-title="Drama",Slemane
+http://iptv.nextnet.krd:25461/12920/4516/102
+#EXTINF:-1 tvg-id="Rasan HD" tvg-logo="R" group-title="Kltur",Rasan HD
+http://iptv.nextnet.krd:25461/12920/4516/94
+#EXTINF:-1 tvg-id="Kalapur HD" tvg-logo="Kp" group-title="Kltur",Kalapur HD
+http://iptv.nextnet.krd:25461/12920/4516/132
+#EXTINF:-1 tvg-id="Nishtemani mn" tvg-logo="Nm" group-title="Kltur",Nishtemani mn
+http://iptv.nextnet.krd:25461/12920/4516/126
+#EXTINF:-1 tvg-id="Baboly HD" tvg-logo="B" group-title="Kltur",Baboly HD
+http://iptv.nextnet.krd:25461/12920/4516/4703
+#EXTINF:-1 tvg-id="TRT HD" tvg-logo="T" group-title="Kltur",TRT HD
+http://iptv.nextnet.krd:25461/12920/4516/4699
+#EXTINF:-1 tvg-id="Derwaza Music" tvg-logo="Dm" group-title="Music",Derwaza Music
+http://iptv.nextnet.krd:25461/12920/4516/176
+#EXTINF:-1 tvg-id="Kurdmax Music" tvg-logo="Kmm" group-title="Music",Kurdmax Music
+http://iptv.nextnet.krd:25461/12920/4516/97
+#EXTINF:-1 tvg-id="Rang Music" tvg-logo="Rm" group-title="Music",Rang Music
+http://iptv.nextnet.krd:25461/12920/4516/91
+#EXTINF:-1 tvg-id="Perdiana Music" tvg-logo="Pm" group-title="Music",Perdiana Music
+http://iptv.nextnet.krd:25461/12920/4516/4888
+#EXTINF:-1 tvg-id="Bmc" tvg-logo="K" group-title="Kurdish",Bmc
+http://iptv.nextnet.krd:25461/12920/4516/88
+#EXTINF:-1 tvg-id="Garian HD" tvg-logo="G" group-title="Kltur",Garian HD
+http://iptv.nextnet.krd:25461/12920/4516/93
+#EXTINF:-1 tvg-id="Niga HD" tvg-logo="N" group-title="Kurdish",Niga HD
+http://iptv.nextnet.krd:25461/12920/4516/96
+#EXTINF:-1 tvg-id="Halabga HD" tvg-logo="H" group-title="Kurdish",Halabga HD
+http://iptv.nextnet.krd:25461/12920/4516/107
+#EXTINF:-1 tvg-id="Jamawar HD" tvg-logo="J" group-title="Kurdish",Jamawar HD
+http://iptv.nextnet.krd:25461/12920/4516/108
+#EXTINF:-1 tvg-id="NigaHD 1" tvg-logo="N" group-title="Kurdish",NigaHD 1
+http://iptv.nextnet.krd:25461/12920/4516/110
+#EXTINF:-1 tvg-id="Kirkuk  HD" tvg-logo="K" group-title="Kurdish",Kirkuk  HD
+http://iptv.nextnet.krd:25461/12920/4516/125
+#EXTINF:-1 tvg-id="Aro HD" tvg-logo="A" group-title="Kurdish",Aro HD
+http://iptv.nextnet.krd:25461/12920/4516/128
+#EXTINF:-1 tvg-id="Chihan HD" tvg-logo="Ch" group-title="Kurdish",Chihan HD
+http://iptv.nextnet.krd:25461/12920/4516/151
+#EXTINF:-1 tvg-id="NRT2 HD" tvg-logo="N" group-title="Kurdish",NRT2 HD
+http://iptv.nextnet.krd:25461/12920/4516/152
+#EXTINF:-1 tvg-id="Mihrab" tvg-logo="M" group-title="Kurdish",Mihrab
+http://iptv.nextnet.krd:25461/12920/4516/154
+#EXTINF:-1 tvg-id="UTV Hawler" tvg-logo="U" group-title="Kurdish",UTV Hawler
+http://iptv.nextnet.krd:25461/12920/4516/155
+#EXTINF:-1 tvg-id="Srusht HD" tvg-logo="S" group-title="Kurdish",Srusht HD
+http://iptv.nextnet.krd:25461/12920/4516/159
+#EXTINF:-1 tvg-id="Roj HD" tvg-logo="R" group-title="Kurdish",Roj HD
+http://iptv.nextnet.krd:25461/12920/4516/160
+#EXTINF:-1 tvg-id="Znar HD" tvg-logo="Z" group-title="Kurdish",Znar HD
+http://iptv.nextnet.krd:25461/12920/4516/161
+#EXTINF:-1 tvg-id="Komal HD" tvg-logo="K" group-title="Kurdish",Komal HD
+http://iptv.nextnet.krd:25461/12920/4516/168
+#EXTINF:-1 tvg-id="U2 HD" tvg-logo="U" group-title="Kurdish",U2 HD
+http://iptv.nextnet.krd:25461/12920/4516/169
+#EXTINF:-1 tvg-id="Astera HD1" tvg-logo="Am" group-title="Kurdish",Astera HD1
+http://iptv.nextnet.krd:25461/12920/4516/172
+#EXTINF:-1 tvg-id="Astera HD2" tvg-logo="As" group-title="Kurdish",Astera HD2
+http://iptv.nextnet.krd:25461/12920/4516/173
+#EXTINF:-1 tvg-id="Astera HD3" tvg-logo="Ad" group-title="Kltur",Astera HD3
+http://iptv.nextnet.krd:25461/12920/4516/174
+#EXTINF:-1 tvg-id="Astera HD4" tvg-logo="Af" group-title="Kurdish",Astera HD4
+http://iptv.nextnet.krd:25461/12920/4516/175
+#EXTINF:-1 tvg-id="Sahar Kurdish" tvg-logo="Sk" group-title="Kurdish",Sahar Kurdish
+http://iptv.nextnet.krd:25461/12920/4516/175
+#EXTINF:-1 tvg-id="Rang HD2" tvg-logo="Rd" group-title="Kltur",Rang HD2
+http://iptv.nextnet.krd:25461/12920/4516/186
+#EXTINF:-1 tvg-id="Pelistank HD" tvg-logo="P" group-title="Kids",Pelistank HD
+http://iptv.nextnet.krd:25461/12920/4516/187
+#EXTINF:-1 tvg-id="Niga kids" tvg-logo="Nk" group-title="Kids",Niga kids
+http://iptv.nextnet.krd:25461/12920/4516/193
+#EXTINF:-1 tvg-id="NRT3 Kids" tvg-logo="Nk" group-title="Kids",NRT3 Kids
+http://iptv.nextnet.krd:25461/12920/4516/194
+#EXTINF:-1 tvg-id="A Kids" tvg-logo="Ak" group-title="Kids",A Kids
+http://iptv.nextnet.krd:25461/12920/4516/196
+#EXTINF:-1 tvg-id="Kurdmax Papula" tvg-logo="Kp" group-title="Kids",Kurdmax Papula
+http://iptv.nextnet.krd:25461/12920/4516/197
+#EXTINF:-1 tvg-id="Astera HD5" tvg-logo="Ak" group-title="Kids",Astera HD5
+http://iptv.nextnet.krd:25461/12920/4516/199
+#EXTINF:-1 tvg-id="Rang HD3" tvg-logo="Rk" group-title="Kids",Rang HD3
+http://iptv.nextnet.krd:25461/12920/4516/204
+#EXTINF:-1 tvg-id="Mmn HD1" tvg-logo="M" group-title="Kltur",Mmn HD1
+http://iptv.nextnet.krd:25461/12920/4516/207
+#EXTINF:-1 tvg-id="Mmn HD2" tvg-logo="Ms" group-title="Kurdish",Mmn HD2
+http://iptv.nextnet.krd:25461/12920/4516/208
+#EXTINF:-1 tvg-id="Mmn HD3" tvg-logo="Mk" group-title="Kids",Mmn HD3
+http://iptv.nextnet.krd:25461/12920/4516/209
+#EXTINF:-1 tvg-id="Mmn HD4" tvg-logo="Mm" group-title="Kurdish",Mmn HD4
+http://iptv.nextnet.krd:25461/12920/4516/210
+#EXTINF:-1 tvg-id="Mmn HD5" tvg-logo="Md" group-title="Drama",Mmn HD5
+http://iptv.nextnet.krd:25461/12920/4516/217
+#EXTINF:-1 tvg-id="Qalat HD" tvg-logo="Q" group-title="Kurdish",Qalat HD
+http://iptv.nextnet.krd:25461/12920/4516/4075
+#EXTINF:-1 tvg-id="Barin HD1" tvg-logo="Bf" group-title="Kurdish",Barin HD1
+http://iptv.nextnet.krd:25461/12920/4516/4325
+#EXTINF:-1 tvg-id="Barin HD2" tvg-logo="Bm" group-title="Kurdish",Barin HD2
+http://iptv.nextnet.krd:25461/12920/4516/4327
+#EXTINF:-1 tvg-id="Bnar HD" tvg-logo="B" group-title="Kurdish",Bnar HD
+http://iptv.nextnet.krd:25461/12920/4516/4328
+#EXTINF:-1 tvg-id="K24 Dicomentary" tvg-logo="K24d" group-title="Kltur",K24 Dicomentary
+http://iptv.nextnet.krd:25461/12920/4516/4362
+#EXTINF:-1 tvg-id="Qalam HD1" tvg-logo="Qk" group-title="Kids",Qalam HD1
+http://iptv.nextnet.krd:25461/12920/4516/4363
+#EXTINF:-1 tvg-id="Qalam G" tvg-logo="Qg" group-title="Kltur",Qalam G
+http://iptv.nextnet.krd:25461/12920/4516/4365
+#EXTINF:-1 tvg-id="Chihan HD" tvg-logo="Ch" group-title="Kurdish",Chihan HD
+http://iptv.nextnet.krd:25461/12920/4516/4366
+#EXTINF:-1 tvg-id="Avar HD" tvg-logo="A" group-title="Kurdish",Avar HD
+http://iptv.nextnet.krd:25461/12920/4516/4692
+#EXTINF:-1 tvg-id="Azadi HD" tvg-logo="A" group-title="Kurdish",Azadi HD
+http://iptv.nextnet.krd:25461/12920/4516/4694
+#EXTINF:-1 tvg-id="Shar HD" tvg-logo="S" group-title="Kurdish",Shar HD
+http://iptv.nextnet.krd:25461/12920/4516/4706
+#EXTINF:-1 tvg-id="Bahar HD" tvg-logo="B" group-title="Kurdish",Bahar HD
+http://iptv.nextnet.krd:25461/12920/4516/5020
+#EXTINF:-1 tvg-id="Sterk HD" tvg-logo="S" group-title="Kurdish",Sterk HD
+http://iptv.nextnet.krd:25461/12920/4516/5021
+#EXTINF:-1 tvg-id="4kurd" tvg-logo="4k" group-title="Kurdish",4kurd
+http://iptv.nextnet.krd:25461/12920/4516/5022
+#EXTINF:-1 tvg-id="Jin HD" tvg-logo="J" group-title="Kurdish",Jin HD
+http://iptv.nextnet.krd:25461/12920/4516/5024
+#EXTINF:-1 tvg-id="Komala HD" tvg-logo="K" group-title="Kurdish",Komala HD
+http://iptv.nextnet.krd:25461/12920/4516/5026
+#EXTINF:-1 tvg-id="TRT Kurdi" tvg-logo="Tk" group-title="Kurdish",TRT Kurdi
+http://iptv.nextnet.krd:25461/12920/4516/5030
+#EXTINF:-1 tvg-id="Mmn HD6" tvg-logo="Ma" group-title="Kurdish",Mmn HD6
+http://iptv.nextnet.krd:25461/12920/4516/5540
+#EXTINF:-1 tvg-id="Ava Sport HD" tvg-logo="As" group-title="Sport",Ava Sport HD
+http://iptv.nextnet.krd:25461/12920/4516/4690
+#EXTINF:-1 tvg-id="NRT Sport HD" tvg-logo="Ns" group-title="Sport",NRT Sport HD
+http://iptv.nextnet.krd:25461/12920/4516/167
+#EXTINF:-1 tvg-id="4SPort" tvg-logo="4s" group-title="Sport",4SPort
+http://iptv.nextnet.krd:25461/12920/4516/106
+#EXTINF:-1 tvg-id="Aro Sport HD" tvg-logo="As" group-title="Sport",Aro Sport HD
+http://iptv.nextnet.krd:25461/12920/4516/129
+#EXTINF:-1 tvg-id="Astera Sport HD" tvg-logo="As" group-title="Sport",Astera Sport HD
+http://iptv.nextnet.krd:25461/12920/4516/149
+#EXTINF:-1 tvg-id="Sport HD" tvg-logo="S" group-title="Sport",Sport HD
+http://iptv.nextnet.krd:25461/12920/4516/105
+#EXTINF:-1 tvg-id="Bein Sport News" tvg-logo="Bn" group-title="Sport",Bein Sport News
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/290371.m3u8
+#EXTINF:-1 tvg-id="Bein 1 HD" tvg-logo="Bs" group-title="Sport",Bein 1 HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/60958.m3u8
+#EXTINF:-1 tvg-id="Bein 2 HD" tvg-logo="Bs" group-title="Sport",Bein 2 HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/28751.m3u8
+#EXTINF:-1 tvg-id="Bein 3 HD" tvg-logo="Bs" group-title="Sport",Bein 3 HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/60959.m3u8
+#EXTINF:-1 tvg-id="Bein 4 HD" tvg-logo="Bs" group-title="Sport",Bein 4 HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/36301.m3u8
+#EXTINF:-1 tvg-id="Bein 5 HD" tvg-logo="Bs" group-title="Sport",Bein 5 HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/36302.m3u8
+#EXTINF:-1 tvg-id="Bein 6 HD" tvg-logo="Bs" group-title="Sport",Bein 6 HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/36300.m3u8
+#EXTINF:-1 tvg-id="Bein 7 HD" tvg-logo="Bs" group-title="Sport",Bein 7 HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/36299.m3u8
+#EXTINF:-1 tvg-id="Bein 8 HD" tvg-logo="Bs" group-title="Sport",Bein 8 HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/36298.m3u8
+#EXTINF:-1 tvg-id="Bein 9" tvg-logo="Bs" group-title="Sport",Bein 9
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/36297.m3u8
+#EXTINF:-1 tvg-id="SSC HD1" tvg-logo="Ss" group-title="Sport",SSC HD1
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/548145.m3u8
+#EXTINF:-1 tvg-id="SSC 2HD" tvg-logo="Ss" group-title="Sport",SSC 2HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/548148.m3u8
+#EXTINF:-1 tvg-id="SSC 3HD" tvg-logo="Ss" group-title="Sport",SSC 3HD
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/548151.m3u8
+#EXTINF:-1 tvg-id="Real Madrid HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/179px-Real_Madrid_CF.svg.png" group-title="Sport",Real Madrid HD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="atv" tvg-logo="A" group-title="Turk",atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="Show tv" tvg-logo="S" group-title="Turk",Show tv
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="Star TV" tvg-logo="S" group-title="Turk",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="Kanal D" tvg-logo="Kd" group-title="Turk",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="Kral Pop tv" tvg-logo="Kp" group-title="Turk",Kral Pop tv
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="N1" tvg-logo="N" group-title="Turk",N1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-id="N2" tvg-logo="N" group-title="Turk",N2
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-id="N3" tvg-logo="N" group-title="Turk",N3
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-id="N4" tvg-logo="N" group-title="Turk",N4
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Power 1" tvg-logo="P" group-title="Turk",Power 1
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Power 2" tvg-logo="P" group-title="Turk",Power 2
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Power 3" tvg-logo="P" group-title="Turk",Power 3
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Power 4" tvg-logo="P" group-title="Turk",Power 4
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Power 5" tvg-logo="P" group-title="Turk",Power 5
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Power 6" tvg-logo="P" group-title="Turk",Power 6
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Power 7" tvg-logo="P" group-title="Turk",Power 7
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tempo Tv" tvg-logo="T" group-title="Turk",Tempo Tv
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
