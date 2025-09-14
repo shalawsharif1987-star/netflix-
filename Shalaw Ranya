@@ -1,0 +1,251 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rudaw HD" tvg-logo="News" group-title="News",Rudaw HD
+http://rechahd.xyz:80/live/443432469215731/4362020837/54101.ts
+#EXTINF:-1 tvg-id="K24" group-title="Kurdish News",K24
+http://rechahd.xyz:80/live/443432469215731/4362020837/54082.ts
+#EXTINF:-1 tvg-id="Ava" group-title="Kurdish News",Ava
+http://rechahd.xyz:80/live/443432469215731/4362020837/64902.ts
+#EXTINF:-1 tvg-id="Kurdmax" group-title="Kurdish",Kurdmax
+http://rechahd.xyz:80/live/443432469215731/4362020837/54112.ts
+#EXTINF:-1 tvg-id="Kurdmax Show" group-title="Kurdish",Kurdmax Show
+http://rechahd.xyz:80/live/443432469215731/4362020837/54111.ts
+#EXTINF:-1 tvg-id="Ranya" group-title="Kurdish",Ranya
+http://rechahd.xyz:80/live/443432469215731/4362020837/805988.ts
+#EXTINF:-1 tvg-id="Newline 1" group-title="Kurdish",Newline 1
+http://rechahd.xyz:80/live/443432469215731/4362020837/54032.ts
+#EXTINF:-1 tvg-id="Newline2" group-title="Kurdish",Newline2
+http://rechahd.xyz:80/live/443432469215731/4362020837/54031.ts
+#EXTINF:-1 tvg-id="Zet Plus" group-title="Kurdish",Zet Plus
+http://rechahd.xyz:80/live/443432469215731/4362020837/806001.ts
+#EXTINF:-1 tvg-id="Zet TV" group-title="Kurdish",Zet TV
+http://rechahd.xyz:80/live/443432469215731/4362020837/803933.ts
+#EXTINF:-1 tvg-id="KurdSat" group-title="Kurdish",KurdSat
+http://rechahd.xyz:80/live/443432469215731/4362020837/54106.ts
+#EXTINF:-1 tvg-id="MMN Show" group-title="Kurdish",MMN Show
+http://rechahd.xyz:80/live/443432469215731/4362020837/771655.ts
+#EXTINF:-1 tvg-id="Astera Family" group-title="Kurdish",Astera Family
+http://rechahd.xyz:80/live/443432469215731/4362020837/54062.ts
+#EXTINF:-1 tvg-id="Qalat" group-title="Kurdish",Qalat
+http://rechahd.xyz:80/live/443432469215731/4362020837/54026.ts
+#EXTINF:-1 tvg-id="Barin Family" group-title="Kurdish",Barin Family
+http://rechahd.xyz:80/live/443432469215731/4362020837/732992.ts
+#EXTINF:-1 tvg-id="Halabja" group-title="Kurdish",Halabja
+http://rechahd.xyz:80/live/443432469215731/4362020837/805759.ts
+#EXTINF:-1 tvg-id="Niga Family" group-title="Kurdish",Niga Family
+http://rechahd.xyz:80/live/443432469215731/4362020837/805776.ts
+#EXTINF:-1 tvg-id="Rang HD" group-title="Kurdish",Rang HD
+http://rechahd.xyz:80/live/443432469215731/4362020837/805990.ts
+#EXTINF:-1 tvg-id="Slemani" group-title="Kurdish",Slemani
+http://rechahd.xyz:80/live/443432469215731/4362020837/805996.ts
+#EXTINF:-1 tvg-id="Fox" group-title="Kurdish",Fox
+http://rechahd.xyz:80/live/443432469215731/4362020837/804044.ts
+#EXTINF:-1 tvg-id="Shaista" group-title="Kurdish",Shaista
+http://rechahd.xyz:80/live/443432469215731/4362020837/809115.ts
+#EXTINF:-1 tvg-id="Pshdar HD" group-title="Kurdish kltur",Pshdar HD
+http://rechahd.xyz:80/live/443432469215731/4362020837/771657.ts
+#EXTINF:-1 tvg-id="Kalapur" group-title="Kurdish kltur",Kalapur
+http://rechahd.xyz:80/live/443432469215731/4362020837/805763.ts
+#EXTINF:-1 tvg-id="Sima documentary" group-title="Kurdish kltur",Sima documentary
+http://rechahd.xyz:80/live/443432469215731/4362020837/805993.ts
+#EXTINF:-1 tvg-id="Rang Documentary" group-title="Kurdish kltur",Rang Documentary
+http://rechahd.xyz:80/live/443432469215731/4362020837/803931.ts
+#EXTINF:-1 tvg-id="MMN Music" group-title="Kurdish Music",MMN Music
+http://rechahd.xyz:80/live/443432469215731/4362020837/771662.ts
+#EXTINF:-1 tvg-id="Dasinya Music" group-title="Kurdish Music",Dasinya Music
+http://rechahd.xyz:80/live/443432469215731/4362020837/56433.ts
+#EXTINF:-1 tvg-id="4 Kurd Music" group-title="Kurdish Music",4 Kurd Music
+http://rechahd.xyz:80/live/443432469215731/4362020837/160954.ts
+#EXTINF:-1 tvg-id="Delal Music" group-title="Kurdish Music",Delal Music
+http://rechahd.xyz:80/live/443432469215731/4362020837/805755.ts
+#EXTINF:-1 tvg-id="Sima Music" group-title="Kurdish Music",Sima Music
+http://rechahd.xyz:80/live/443432469215731/4362020837/805995.ts
+#EXTINF:-1 tvg-id="Derwaza Music" group-title="Kurdish Music",Derwaza Music
+http://rechahd.xyz:80/live/443432469215731/4362020837/803959.ts
+#EXTINF:-1 tvg-id="MMN Moveis" group-title="Kurdish Moveis",MMN Moveis
+http://rechahd.xyz:80/live/443432469215731/4362020837/771664.ts
+#EXTINF:-1 tvg-id="MMN Action" group-title="Kurdish Moveis",MMN Action
+http://rechahd.xyz:80/live/443432469215731/4362020837/772720.ts
+#EXTINF:-1 tvg-id="Barin Moveis" group-title="Kurdish Moveis",Barin Moveis
+http://rechahd.xyz:80/live/443432469215731/4362020837/805752.ts
+#EXTINF:-1 tvg-id="Kurd Cinema" group-title="Kurdish moveis",Kurd Cinema
+http://rechahd.xyz:80/live/443432469215731/4362020837/805765.ts
+#EXTINF:-1 tvg-id="Newline Moveis" group-title="Kurdish Moveis",Newline Moveis
+http://rechahd.xyz:80/live/443432469215731/4362020837/805772.ts
+#EXTINF:-1 tvg-id="Newline bollywod" group-title="Kurdish Moveis",Newline bollywod
+http://rechahd.xyz:80/live/443432469215731/4362020837/805774.ts
+#EXTINF:-1 tvg-id="Niga Moveis" group-title="Kurdish Moveis",Niga Moveis
+http://rechahd.xyz:80/live/443432469215731/4362020837/805981.ts
+#EXTINF:-1 tvg-id="MMN Kids" group-title="Kurdish Kids",MMN Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/771663.ts
+#EXTINF:-1 tvg-id="NRT Kids" group-title="Kurdish Kids",NRT Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/54114.ts
+#EXTINF:-1 tvg-id="KurdMax Papula" group-title="Kurdish Kids",KurdMax Papula
+http://rechahd.xyz:80/live/443432469215731/4362020837/771653.ts
+#EXTINF:-1 tvg-id="Niga Kids" group-title="Kurdish Kids",Niga Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/54029.ts
+#EXTINF:-1 tvg-id="Life Kids" group-title="Kurdish Kids",Life Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/301557.ts
+#EXTINF:-1 tvg-id="Ezdan Kids" group-title="Kurdish Kids",Ezdan Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/301541.ts
+#EXTINF:-1 tvg-id="First Kids" group-title="Kurdish Kids",First Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/805757.ts
+#EXTINF:-1 tvg-id="Newline Kids" group-title="Kurdish Kids",Newline Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/805771.ts
+#EXTINF:-1 tvg-id="Afarin Baxcha" group-title="Kurdish Kids",Afarin Baxcha
+http://rechahd.xyz:80/live/443432469215731/4362020837/804207.ts
+#EXTINF:-1 tvg-id="Afarin Kids" group-title="Kurdish Kids",Afarin Kids
+http://rechahd.xyz:80/live/443432469215731/4362020837/1034823.ts
+#EXTINF:-1 tvg-id="NRT1" group-title="Kurdish News",NRT1
+http://rechahd.xyz:80/live/443432469215731/4362020837/54117.ts
+#EXTINF:-1 tvg-id="Kurdistan Tv" group-title="Kurdish News",Kurdistan Tv
+http://rechahd.xyz:80/live/443432469215731/4362020837/54107.ts
+#EXTINF:-1 tvg-id="KurdSat News" group-title="Kurdish News",KurdSat News
+http://rechahd.xyz:80/live/443432469215731/4362020837/54098.ts
+#EXTINF:-1 tvg-id="War" group-title="Kurdish",War
+http://rechahd.xyz:80/live/443432469215731/4362020837/54103.ts
+#EXTINF:-1 tvg-id="Devar" group-title="Kurdish",Devar
+http://rechahd.xyz:80/live/443432469215731/4362020837/771668.ts
+#EXTINF:-1 tvg-id="Zarok" group-title="Kurdish Kids",Zarok
+http://rechahd.xyz:80/live/443432469215731/4362020837/771669.ts
+#EXTINF:-1 tvg-id="TRT Kurdi" group-title="Kurdish",TRT Kurdi
+http://rechahd.xyz:80/live/443432469215731/4362020837/54094.ts
+#EXTINF:-1 tvg-id="Zagros Tv" group-title="Kurdish News",Zagros Tv
+http://rechahd.xyz:80/live/443432469215731/4362020837/54108.ts
+#EXTINF:-1 tvg-id="Minara" group-title="Kurdish",Minara
+http://rechahd.xyz:80/live/443432469215731/4362020837/772718.ts
+#EXTINF:-1 tvg-id="ZMMN Quran" group-title="Kurdish",ZMMN Quran
+http://rechahd.xyz:80/live/443432469215731/4362020837/772721.ts
+#EXTINF:-1 tvg-id="Zever" group-title="Kurdish",Zever
+http://rechahd.xyz:80/live/443432469215731/4362020837/771666.ts
+#EXTINF:-1 tvg-id="Bnar" group-title="Kurdish",Bnar
+http://rechahd.xyz:80/live/443432469215731/4362020837/772722.ts
+#EXTINF:-1 tvg-id="Kerkuk" group-title="Kurdish",Kerkuk
+http://rechahd.xyz:80/live/443432469215731/4362020837/54075.ts
+#EXTINF:-1 tvg-id="GK HD" group-title="Kurdish News",GK HD
+http://rechahd.xyz:80/live/443432469215731/4362020837/54088.ts
+#EXTINF:-1 tvg-id="Speda" group-title="Kurdish News",Speda
+http://rechahd.xyz:80/live/443432469215731/4362020837/54072.ts
+#EXTINF:-1 tvg-id="Sada" group-title="Kurdish",Sada
+http://rechahd.xyz:80/live/443432469215731/4362020837/301568.ts
+#EXTINF:-1 tvg-id="Duhok" group-title="Kurdish",Duhok
+http://rechahd.xyz:80/live/443432469215731/4362020837/56437.ts
+#EXTINF:-1 tvg-id="Barin Quran" group-title="Kurdish",Barin Quran
+http://rechahd.xyz:80/live/443432469215731/4362020837/732991.ts
+#EXTINF:-1 tvg-id="Ld Nujin" group-title="Kurdish",Ld Nujin
+http://rechahd.xyz:80/live/443432469215731/4362020837/732981.ts
+#EXTINF:-1 tvg-id="Hormzyar" group-title="Kurdish",Hormzyar
+http://rechahd.xyz:80/live/443432469215731/4362020837/732989.ts
+#EXTINF:-1 tvg-id="Chihan" group-title="Kurdish",Chihan
+http://rechahd.xyz:80/live/443432469215731/4362020837/771661.ts
+#EXTINF:-1 tvg-id="Niroj" group-title="Kurdish",Niroj
+http://rechahd.xyz:80/live/443432469215731/4362020837/771670.ts
+#EXTINF:-1 tvg-id="Dahen" group-title="Kurdish",Dahen
+http://rechahd.xyz:80/live/443432469215731/4362020837/54050.ts
+#EXTINF:-1 tvg-id="Nishtimani Mn" group-title="Kurdish Kltur",Nishtimani Mn
+http://rechahd.xyz:80/live/443432469215731/4362020837/54027.ts
+#EXTINF:-1 tvg-id="New Tv Music" group-title="Kurdish Music",New Tv Music
+http://rechahd.xyz:80/live/443432469215731/4362020837/54016.ts
+#EXTINF:-1 tvg-id="Payam" group-title="Kurdish News",Payam
+http://rechahd.xyz:80/live/443432469215731/4362020837/801214.ts
+#EXTINF:-1 tvg-id="Azhin" group-title="Kurdish",Azhin
+http://rechahd.xyz:80/live/443432469215731/4362020837/805751.ts
+#EXTINF:-1 tvg-id="Dasnia HD" group-title="Kurdish",Dasnia HD
+http://rechahd.xyz:80/live/443432469215731/4362020837/805754.ts
+#EXTINF:-1 tvg-id="Euro Kurd" group-title="Kurdish",Euro Kurd
+http://rechahd.xyz:80/live/443432469215731/4362020837/805756.ts
+#EXTINF:-1 tvg-id="Jamawar" group-title="Kurdish News",Jamawar
+http://rechahd.xyz:80/live/443432469215731/4362020837/805761.ts
+#EXTINF:-1 tvg-id="Khak" group-title="Kurdish",Khak
+http://rechahd.xyz:80/live/443432469215731/4362020837/805764.ts
+#EXTINF:-1 tvg-id="Kurd Cinama 1" group-title="Kurdish Moveis",Kurd Cinama 1
+http://rechahd.xyz:80/live/443432469215731/4362020837/805765.ts
+#EXTINF:-1 tvg-id="Kurd Cinema 2" group-title="Kurdish Moveis",Kurd Cinema 2
+http://rechahd.xyz:80/live/443432469215731/4362020837/805766.ts
+#EXTINF:-1 tvg-id="Soran" group-title="Kurdish",Soran
+http://rechahd.xyz:80/live/443432469215731/4362020837/805767.ts
+#EXTINF:-1 tvg-id="Rang HD" group-title="Kurdish",Rang HD
+http://rechahd.xyz:80/live/443432469215731/4362020837/805990.ts
+#EXTINF:-1 tvg-id="Rozh HD" group-title="Kurdish",Rozh HD
+http://rechahd.xyz:80/live/443432469215731/4362020837/805992.ts
+#EXTINF:-1 tvg-id="Duhok Sport" group-title="Kurdish Sport",Duhok Sport
+http://rechahd.xyz:80/live/443432469215731/4362020837/732990.ts
+#EXTINF:-1 tvg-id="Dasinya Slort" group-title="Kurdish Sport",Dasinya Slort
+http://rechahd.xyz:80/live/443432469215731/4362020837/771659.ts
+#EXTINF:-1 tvg-id="Zaxo Sport" group-title="Kurdish Sport",Zaxo Sport
+http://rechahd.xyz:80/live/443432469215731/4362020837/344543.ts
+#EXTINF:-1 tvg-id="Astera Sport" group-title="Kurdish Sport",Astera Sport
+http://rechahd.xyz:80/live/443432469215731/4362020837/54059.ts
+#EXTINF:-1 tvg-id="LD Sport" group-title="Kurdish Sport",LD Sport
+http://rechahd.xyz:80/live/443432469215731/4362020837/805768.ts
+#EXTINF:-1 tvg-id="Nrt Sport" group-title="Kurdish Sport",Nrt Sport
+http://rechahd.xyz:80/live/443432469215731/4362020837/805984.ts
+#EXTINF:-1 tvg-id="Newline Sport" group-title="Kurdish Sport",Newline Sport
+http://rechahd.xyz:80/live/443432469215731/4362020837/805773.ts
+#EXTINF:-1 tvg-id="Aro Sport" group-title="Kurdish Sport",Aro Sport
+http://iptv.nextnet.krd:25461/12920/4516/129
+#EXTINF:-1 tvg-id="4 Sport" group-title="Kurdish Sport",4 Sport
+http://iptv.nextnet.krd:25461/12920/4516/106
+#EXTINF:-1 tvg-id="AVA Sport" group-title="Kurdish Sport",AVA Sport
+http://iptv.nextnet.krd:25461/12920/4516/4690
+#EXTINF:-1 tvg-id="Bein Sport 1" group-title="Bein 4K",Bein Sport 1
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6814.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 2" group-title="Bein 4K",Bein Sport 2
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6823.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 3" group-title="Bein 4K",Bein Sport 3
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6815.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 4" group-title="Bein 4K",Bein Sport 4
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6818.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 5" group-title="Bein 4K",Bein Sport 5
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6817.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 6" group-title="Bein 4K",Bein Sport 6
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6819.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 7" group-title="Bein 4K",Bein Sport 7
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6820.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 7" group-title="Bein 4K",Bein Sport 7
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6820.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 8" group-title="Bein 4K",Bein Sport 8
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6821.m3u8
+#EXTINF:-1 tvg-id="Bein Sport 9" group-title="Bein 4k",Bein Sport 9
+http://sansat.cc:88/live/02028425410074/ZUSTRUMM230NX8G/6822.m3u8
+#EXTINF:-1 tvg-id="8 Sport 1" group-title="8Sport",8 Sport 1
+http://1789-181.123091763.it.com/live/696998_.m3u8
+#EXTINF:-1 tvg-id="8 Sport 2" group-title="8 Sport",8 Sport 2
+http://1789-181.123091763.it.com/live/785917_.m3u8
+#EXTINF:-1 tvg-id="8 Sport 3" group-title="8 Sport",8 Sport 3
+http://1789-181.123091763.it.com/live/595243_.m3u8
+#EXTINF:-1 tvg-id="Alwan Sport" group-title="Alwan Sport",Alwan Sport
+https://6476e46b58f91.streamlock.net/liveTrans/alwan1/index.m3u8
+#EXTINF:-1 tvg-id="Alwan Sport 2" group-title="Alwan Sport",Alwan Sport 2
+https://6476e46b58f91.streamlock.net/liveTrans/alwan2/index.m3u8
+#EXTINF:-1 tvg-id="Alwan Sport 3" group-title="Alwan Sport",Alwan Sport 3
+https://6476e46b58f91.streamlock.net/liveTrans/alwan3/index.m3u8
+#EXTINF:-1 tvg-id="Alwan Sport 4" group-title="Alwan Sport",Alwan Sport 4
+https://6476e46b58f91.streamlock.net/liveTrans/alwan4/index.m3u8
+#EXTINF:-1 tvg-id="Alwan Sport 5" group-title="Alwan Sport",Alwan Sport 5
+https://6476e46b58f91.streamlock.net/liveTrans/alwan5/index.m3u8
+#EXTINF:-1 tvg-id="Alwan Sport 6" group-title="Alwan Sport",Alwan Sport 6
+https://6476e46b58f91.streamlock.net/liveTrans/alwan6/index.m3u8
+#EXTINF:-1 tvg-id="SEE Sport" group-title="Kurdish Sport",SEE Sport
+http://rechahd.xyz:80/live/443432469215731/4362020837/344542.ts
+#EXTINF:-1 tvg-id="Bahar" group-title="Kurdish",Bahar
+http://iptv.nextnet.krd:25461/12920/4516/5020
+#EXTINF:-1 tvg-id="Azadi" group-title="Kurdish",Azadi
+http://iptv.nextnet.krd:25461/12920/4516/4694
+#EXTINF:-1 tvg-id="Qalam" group-title="Kurdish",Qalam
+http://iptv.nextnet.krd:25461/12920/4516/4363
+#EXTINF:-1 tvg-id="K24 Documentary" group-title="Kurdish kltur",K24 Documentary
+http://iptv.nextnet.krd:25461/12920/4516/4362
+#EXTINF:-1 tvg-id="NRT2" group-title="Kurdish",NRT2
+http://iptv.nextnet.krd:25461/12920/4516/152
+#EXTINF:-1 tvg-id="BMC" group-title="Kurdish Music",BMC
+http://iptv.nextnet.krd:25461/12920/4516/88
+#EXTINF:-1 tvg-id="Kurdmax Music" group-title="Kurdish Music",Kurdmax Music
+http://iptv.nextnet.krd:25461/12920/4516/97
+#EXTINF:-1 tvg-id="Babuly" group-title="Kurdish Kltur",Babuly
+http://iptv.nextnet.krd:25461/12920/4516/4703
+#EXTINF:-1 tvg-id="Rasan" group-title="Kurdish kltur",Rasan
+http://iptv.nextnet.krd:25461/12920/4516/94
+#EXTINF:-1 tvg-id="Channel 8" group-title="Kurdish News",Channel 8
+http://iptv.nextnet.krd:25461/12920/4516/4687
+#EXTINF:-1 tvg-id="Diman" group-title="Kurdish",Diman
+http://iptv.nextnet.krd:25461/12920/4516/92
